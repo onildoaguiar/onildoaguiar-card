@@ -1,0 +1,43 @@
+{
+    "name": "@onildoaguiar/card",
+    "version": "1.0.0",
+    "description": "A personal card for Onildo Aguiar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "onildoaguiar-card": "./bin/card.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/onildoaguiar/onildoaguiar-card.git"
+    },
+    "keywords": [
+        "card",
+        "npm",
+        "npm card",
+        "npx",
+        "npx card",
+        "business card"
+    ],
+    "author": "Onildo Aguiar <onildo.aguiar@live.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/onildoaguiar/onildoaguiar-card/issues"
+    },
+    "homepage": "https://github.com/onildoaguiar/onildoaguiar-card#readme",
+    "devDependencies": {
+        "eslint": "^5.10.0",
+        "eslint-config-airbnb-base": "^13.1.0",
+        "eslint-plugin-import": "^2.14.0",
+        "standard": "^12.0.1"
+    },
+    "dependencies": {
+        "boxen": "^2.1.0",
+        "chalk": "^2.4.1"
+    },
+    "jest": {
+        "testEnvironment": "node"
+    }
+}
