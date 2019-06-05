@@ -1,7 +1,7 @@
 # Onildo Aguiar's Card
 
 <p align="center">
-  <img width="600" src="https://cdn.rawgit.com/onildoaguiar/onildoaguiar-card/master/resources/card.svg">
+  <img src="https://raw.githubusercontent.com/onildoaguiar/onildoaguiar-card/master/resources/card.svg?sanitize=true">
 </p>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/onildoaguiar/onildoaguiar-card/blob/master/LICENSE) 
