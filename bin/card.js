@@ -20,14 +20,14 @@ const data = {
   npm: chalk.blueBright('https://www.npmjs.com/~onildoaguiar'),
   linkedin: chalk.blueBright('https://linkedin.com/in/onildoaguiar'),
   web: chalk.blueBright('https://onildoaguiar.com'),
-  npx: chalk.white('npx @onildoaguiar/card'),
-  labelWork: chalk.white.bold('      Work:'),
-  labelTwitter: chalk.white.bold('   Twitter:'),
-  labelGitHub: chalk.white.bold('    GitHub:'),
-  labelNpm: chalk.white.bold('       NPM:'),
-  labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  labelWeb: chalk.white.bold('       Web:'),
-  labelCard: chalk.white.bold('      Card:'),
+  npx: chalk.white('npx onildoaguiar-card'),
+  labelWork: chalk.white('      Work:'),
+  labelTwitter: chalk.white('   Twitter:'),
+  labelGitHub: chalk.white('    GitHub:'),
+  labelNpm: chalk.white('       NPM:'),
+  labelLinkedIn: chalk.white('  LinkedIn:'),
+  labelWeb: chalk.white('       Web:'),
+  labelCard: chalk.white('      Card:'),
 };
 
 const newline = '\n';
