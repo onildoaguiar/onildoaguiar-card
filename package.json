@@ -1,8 +1,8 @@
 {
-    "name": "@onildoaguiar/card",
+    "name": "onildoaguiar-card",
     "version": "1.0.0",
     "description": "A personal card for Onildo Aguiar",
-    "main": "index.js",
+    "main": "card.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
