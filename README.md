@@ -1,5 +1,7 @@
 # Onildo Aguiar's Card
 
+![Card](https://raw.githubusercontent.com/onildoaguiar/onildoaguiar-card/master/resources/card.gif)
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/onildoaguiar/onildoaguiar-card/blob/master/LICENSE) 
 [![npm version](https://badge.fury.io/js/onildoaguiar-card.svg)](https://badge.fury.io/js/onildoaguiar-card)
 
