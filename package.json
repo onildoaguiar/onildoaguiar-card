@@ -1,6 +1,6 @@
 {
     "name": "onildoaguiar-card",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A personal card for Onildo Aguiar",
     "main": "card.js",
     "scripts": {
@@ -29,8 +29,8 @@
     "homepage": "https://github.com/onildoaguiar/onildoaguiar-card#readme",
     "devDependencies": {
         "eslint": "^5.10.0",
-        "eslint-config-airbnb-base": "^13.1.0",
-        "eslint-plugin-import": "^2.14.0",
+        "eslint-config-airbnb-base": "^13.2.0",
+        "eslint-plugin-import": "^2.22.1",
         "standard": "^12.0.1"
     },
     "dependencies": {
